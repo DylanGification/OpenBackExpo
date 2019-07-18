@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\abloo\\Documents\\expoOB\\openback-sample\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\abloo\\Documents\\expoOB\\openback-sample\\android\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "2",
+                        "startOffsets": "287",
+                        "endColumns": "55",
+                        "endOffsets": "340"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\abloo\\.gradle\\caches\\transforms-2\\files-2.1\\e4c079471c1c749397f805d5c9b50d0e\\res\\values-w820dp-v13\\values-w820dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "61",
+                        "endOffsets": "112"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "113",
+                        "endColumns": "61",
+                        "endOffsets": "170"
+                    }
+                }
+            ]
+        }
+    ]
+}
